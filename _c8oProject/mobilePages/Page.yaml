@@ -155,7 +155,7 @@ title: First page
     beanData: '{"ionBean":"DivTag"}'
     tagName: div
     ↓UseSharedComponent [mobile.components.UIUseShared-1608140613965]: 
-      sharedcomponent: lib_ExtendedComponents.MobileApplication.Application.agGrid
+      sharedcomponent: lib_ExtendedComponents_ui.MobileApplication.Application.agGrid
       ↓pagination [mobile.components.UIControlVariable-1608140652141]: 
         comment: 'boolean: true (default) or false'
         varValue: 
